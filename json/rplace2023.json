@@ -1,15 +1,20 @@
 {
-  "contact": "",
+  "contact": "https://disboard.org/fr/server/959141965532897340",
   "templates": [
     {
-      "name": "Quebec",
+      "name": "Place Quebec",
       "sources": [
         "https://github.com/mifayqc/OverlayPlaceQc/blob/main/png/rplace2023.png?raw=true"
       ],
-      "x": 952,
-      "y": 629
+      "x": 953,
+      "y": 630
     }
   ],
-  "whitelist": [],
+    "whitelist": [
+    {
+      "name": "Argentine",
+      "url": "https://rentry.co/PlaceArg/raw"
+    }
+  ],
   "blacklist": []
 }
