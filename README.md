@@ -10,3 +10,5 @@
 
 3) Load notre overlay
 * Va sur ce lien là: https://www.reddit.com/r/place/?jsontemplate=https://raw.githubusercontent.com/mifayqc/OverlayPlaceQc/main/json/rplace2023.json
+
+4) Aux 15~30 minutes, clear ta cache pour avoir la dernière version de l'image overlay.
