@@ -12,13 +12,21 @@
   ],
     "whitelist": [
     {
-      "name": "Argentine",
-      "url": "https://rentry.co/PlaceArg/raw"
+      	"name": "Argentine",
+      	"url":  "https://rentry.co/PlaceArg/raw"
     },
-	{
-		"name": "WCA - World Cube Association",
-		"url": "https://rentry.co/WCA2/raw"
-	}
+    {
+	"name": "Catalogne",
+	"url":  "https://rentry.co/x9xb2/raw"
+    },
+    {
+	"name": "Belgique (their overlay is loaded with friends...)",
+	"url":  "https://raw.githubusercontent.com/AlphaGaming7780/Belgium-RPlace-Template-2023/main/Belgium%20RPlace%20Template%202023.json"
+    },
+    {
+	"name": "WCA - World Cube Association",
+	"url":  "https://rentry.co/WCA2/raw"
+    }
   ],
   "blacklist": []
 }
