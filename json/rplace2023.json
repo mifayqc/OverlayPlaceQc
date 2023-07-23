@@ -12,10 +12,6 @@
   ],
     "whitelist": [
     {
-      	"name": "Argentine",
-      	"url":  "https://rentry.co/PlaceArg/raw"
-    },
-    {
 	"name": "Catalogne",
 	"url":  "https://rentry.co/placecat/raw"
     },
