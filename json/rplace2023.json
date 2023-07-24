@@ -6,19 +6,19 @@
       "sources": [
         "https://github.com/mifayqc/OverlayPlaceQc/blob/main/png/rplace2023.png?raw=true"
       ],
-      "x": 953,
-      "y": 630
+      "x": 1453,
+      "y": 1100
     }
   ],
     "whitelist": [
     {
-      "name": "Argentine",
-      "url": "https://rentry.co/PlaceArg/raw"
+	"name": "Catalogne",
+	"url":  "https://rentry.co/placecat/raw"
     },
-	{
-		"name": "WCA",
-		"url": "https://rentry.co/WCA/raw"
-	}
+    {
+	"name": "WCA - World Cube Association",
+	"url":  "https://rentry.co/WCA2/raw"
+    }
   ],
   "blacklist": []
 }
