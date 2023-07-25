@@ -12,3 +12,5 @@
 * Va sur ce lien là: https://www.reddit.com/r/place/?jsontemplate=https://raw.githubusercontent.com/mifayqc/OverlayPlaceQc/main/json/rplace2023.json
 
 4) Aux 15~30 minutes, clear ta cache pour avoir la dernière version de l'image overlay.
+
+N.B.: Les design sont votés démocratiquement dans la section sondage du discord. Il est primordial de favoriser les designs qui sont les plus populaires, et ne pas pousser des designs sans consulter la communauté.
