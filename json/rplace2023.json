@@ -6,22 +6,14 @@
       "sources": [
         "https://github.com/mifayqc/OverlayPlaceQc/blob/main/png/rplace2023.png?raw=true"
       ],
-      "x": 1453,
-      "y": 630
+      "x": 1953,
+      "y": 850
     }
   ],
     "whitelist": [
     {
-      	"name": "Argentine",
-      	"url":  "https://rentry.co/PlaceArg/raw"
-    },
-    {
 	"name": "Catalogne",
 	"url":  "https://rentry.co/placecat/raw"
-    },
-    {
-	"name": "Belgique (their overlay is loaded with friends...)",
-	"url":  "https://raw.githubusercontent.com/AlphaGaming7780/Belgium-RPlace-Template-2023/main/Belgium%20RPlace%20Template%202023.json"
     },
     {
 	"name": "WCA - World Cube Association",
